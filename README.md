@@ -24,5 +24,6 @@ To build strong foundations in Python and gradually move into Data Science and r
 
 ---
 
-✨ Created by Rituraj Singh
+✨ Created by Rituraj Singh,
+
 
