@@ -12,6 +12,7 @@ It includes basic concepts, practice programs, and small exercises.
 - Loops & Conditions
 - Functions
 - Lists, Tuples, Dictionaries
+- Basic Recursion (Problem)
 - Basic Problem Solving
 
 ## 📂 Contents
