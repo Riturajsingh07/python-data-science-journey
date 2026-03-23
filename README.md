@@ -19,12 +19,13 @@ It includes basic concepts, practice programs, and small exercises.
 - Python Practice
 - Basic Programs
 - Logic Building
+- problem solveing
 
 ## 🎯 Goal
 To build strong foundations in Python and gradually move into Data Science and real-world projects.
 
  ---
 
-✨ Created by Rituraj Singh,
+✨ Created by Rituraj Singh Chouhan
 
 
