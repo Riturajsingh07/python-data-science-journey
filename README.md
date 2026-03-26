@@ -19,6 +19,7 @@ It includes basic concepts, practice programs, and small exercises.
 - Python Practice
 - Basic Programs
 - Logic Building
+- string
 - problem solveing
 
 ## 🎯 Goal
