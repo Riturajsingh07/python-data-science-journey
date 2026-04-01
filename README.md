@@ -7,7 +7,7 @@
 This repository contains my Python learning journey for Data Science.  
 It includes basic concepts, practice programs, and small exercises.
 
-## 🛠 Currently Learning
+## 🛠  Currently Learning
 - Python Basics
 - Loops & Conditions
 - Functions
