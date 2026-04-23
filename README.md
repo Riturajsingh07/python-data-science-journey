@@ -20,6 +20,7 @@ It includes basic concepts, practice programs, and small exercises.
 - Basic Programs
 - Logic Building
 - string
+- some projects
 - problem solveing
 
 ## 🎯 Goal
